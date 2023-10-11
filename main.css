@@ -1,0 +1,15 @@
+a {
+    color: darkred;
+    font-style: italic;
+    display: inline;
+}
+body{
+    background-color: #93917C;
+}
+div {
+    background-color: lightgreen;
+    width: 75px;
+    border: 7px solid green;
+    padding: 25px;
+    margin: 15px;
+  }
